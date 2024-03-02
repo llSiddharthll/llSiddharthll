@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=llSiddharthll&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=llSiddharthll)](https://github.com/llSiddharthll/github-contribution-stats/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=llSiddharthll&label=Profile%20Views&color=9&icon=0&pretty=true)](https://visitcount.itsvg.in)
