@@ -1,52 +1,82 @@
-<h1 align="center">Hi 👋, I'm Siddharth</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+# Hi there, I'm Siddharth Tiwari! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=llsiddharthll&label=Profile%20views&color=0e75b6&style=flat" alt="llsiddharthll" /> </p>
+![Header Image](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=llsiddharthll&column=5&margin-w=15&margin-h=15" alt="llsiddharthll" /></a> </p>
+Welcome to my GitHub Portfolio! I'm a **final-year B.Tech (Information Technology) student**, aspiring to become a **Data Scientist** while actively building web projects, exploring machine learning, and contributing to open-source. 🚀
 
-<p align="left"> <a href="https://twitter.com/l_siddharth_l" target="blank"><img src="https://img.shields.io/twitter/follow/l_siddharth_l?logo=twitter&style=for-the-badge" alt="l_siddharth_l" /></a> </p>
+---
 
-- 🔭 I’m currently working on [XtraROMs](https://llsiddharthll.pythonanywhere.com)
+## 🌟 About Me
 
-- 🌱 I’m currently learning **Django, Machine Learning**
+- 🔭 Currently working on **XtraROMs**: A platform for custom ROMs and Magisk modules.
+- 🌱 Learning: **React Native**, **MERN Stack**, and advancing **Machine Learning**.
+- 👯 Open to collaborating on **Data Science** and **Web Development** projects.
+- 💬 Ask me about: **Python**, **Django**, **Machine Learning**, or **Web APIs**.
+- 🛠 Skills: Python | Django | ReactJS | SQL | Power BI | Tailwind CSS
+- 💡 Fun Fact: I can talk endlessly about machine learning and Django! 😄
+- 📫 Reach me at: [Email Me](mailto:example@example.com)
 
-- 👯 I’m looking to collaborate on **Machine Learning and Django**
+---
 
-- 🤝 I’m looking for help with **Machine Learning**
+## 🚀 Technologies & Tools
 
-- 👨‍💻 All of my projects are available at [https://portfolio-llsiddharthll.vercel.app](https://portfolio-llsiddharthll.vercel.app)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-- 📝 I regularly write articles on [Django](Django)
+---
 
-- 💬 Ask me about **Django**
+## 📈 GitHub Stats & Activity
 
-- 📫 How to reach me **siddharthgreat443@gmail.com**
+<div align="center">
 
-- 📄 Know about my experiences [https://portfolio-llsiddharthll.vercel.app/static/Sid.pdf](https://portfolio-llsiddharthll.vercel.app/static/Sid.pdf)
+![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=llSiddharthll&show_icons=true&theme=radical&count_private=true&hide=contribs)
 
-- ⚡ Fun fact **I think I am Funny**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llSiddharthll&layout=compact&theme=radical)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=llSiddharthll&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/llsiddharthll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="llsiddharthll" height="30" width="40" /></a>
-<a href="https://twitter.com/l_siddharth_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="l_siddharth_l" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/siddharth-tiwari-553735295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-tiwari-553735295" height="30" width="40" /></a>
-<a href="https://medium.com/@siddharthtiwari_20611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@siddharthtiwari_20611" height="30" width="40" /></a>
+</div>
+
+---
+
+## 🎯 Current Projects
+
+### XtraROMs 🌟
+**Description**: A platform for custom ROMs and Magisk modules featuring user authentication, uploads, and advanced search.
+
+![Preview](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
+
+🔗 **[Visit Repository](https://github.com/llSiddharthll)**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/example"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/example"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://github.com/llSiddharthll"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=llsiddharthll&show_icons=true&locale=en&layout=compact" alt="llsiddharthll" /></p>
+## ✨ Fun Additions
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=llsiddharthll&show_icons=true&locale=en" alt="llsiddharthll" /></p>
+- 💻 **Currently using:** ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) and ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+- 🌌 **Favorite Quote:** "Code never lies, comments sometimes do." 🖤
+- 🏆 **GitHub Badges**:
+  ![Profile Views](https://komarev.com/ghpvc/?username=llSiddharthll&color=brightgreen)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=llsiddharthll&" alt="llsiddharthll" /></p>
+---
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 🛠️ Tools and Animation
+
+- **[Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)**
+- **[GitHub Streak](https://github.com/DenverCoder1/github-readme-streak-stats)**
+- **[Shields.io](https://shields.io/)**
+- **[Giphy](https://giphy.com/)**
+
+---
+
+![Footer Animation](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
+
+✨ Thanks for stopping by! Feel free to check out my repos and connect with me. Let’s build something awesome together! 🚀
