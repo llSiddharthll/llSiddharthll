@@ -22,6 +22,17 @@ Welcome to my GitHub Portfolio! I'm a **final-year B.Tech (Information Technolog
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
+### Additional Skills
+
+- **Programming Languages**: Python, C++, Java
+- **Frameworks**: Django (Web Framework), Django REST Framework
+- **Web Development**: HTML, CSS, JavaScript
+- **Frontend Development**: React, React Native
+- **Libraries & Tools**: NumPy, Pandas, Matplotlib
+- **Machine Learning**: TensorFlow, Hugging Face
+- **Backend Development**: Advanced PHP (Authentication, REST API, Payment Gateway Integration)
+- **Other Tools**: jQuery, AJAX
+
 ---
 
 ## 📈 GitHub Stats & Activity
