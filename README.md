@@ -43,7 +43,7 @@ Welcome to my GitHub Portfolio! I'm a **final-year B.Tech (Information Technolog
 ### XtraROMs 🌟
 **Description**: A platform for custom ROMs and Magisk modules featuring user authentication, uploads, and advanced search.
 
-![Preview](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
+![Preview](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWs2NWdnaTJoZjlteHFhN3QzaGRpbjFqNTJtdW01eHcxczZwbGxubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.webp)
 
 🔗 **[Visit Repository](https://github.com/llSiddharthll)**
 
