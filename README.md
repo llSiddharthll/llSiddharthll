@@ -1,83 +1,102 @@
-<!-- Header Animation via Capsule (waving gradient) -->
+
+<!-- Animated SVG header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%2C%20I%27m%20Siddharth!👋" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Siddharth%20Tiwari%20👋&fontSize=60" alt="hello" />
 </p>
 
-<h2 align="center">I'm **Siddharth Tiwari**</h2>
+<!-- Typing introduction -->
 <p align="center">
-  Full‑stack Developer • Python & Django • Learning ML & Web3 
-</p>
-
-<p align="center">
-  <a href="https://github.com/llSiddharthll">
-    <img src="https://img.shields.io/github/followers/llSiddharthll?label=Follow&style=social" alt="GitHub follow" />
-  </a>
-  <a href="https://linkedin.com/in/siddharth-tiwari-553735295">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=2D8CF0&background=FFFFFF00&center=true&lines=Full-stack+Engineer;Python+|+Django+|+React;ML+and+Web3+Enthusiast" alt="typing" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🏫 IT undergrad from Lucknow, India  
-- 🌱 Passionate about **Python**, **Django**, **React.js**, **ML**  
-- 🔍 Constantly exploring **MLOps**, **Web3**, and **Cloud-native**  
-- 🎯 Obsessed with clean code, intuitive UI, and real-world impact  
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/siddharth-tiwari-553735295) | [Portfolio](https://your-portfolio.link)
+## 👨‍💻 About Me
+- 🎓 Final-year IT undergrad from Lucknow, India  
+- 💡 Passionate about clean code, intuitive UI, and real impact  
+- 🛠️ Currently building ML pipelines, React‑MERN apps & Cloud services  
+- 🔗 Connect with me: [LinkedIn](https://linkedin.com/in/siddharth-tiwari-553735295)
 
 ---
 
-### 🛠️ Tech Stack
+## ⚙️ Tools & Stack
 <p align="center">
-  <!-- Icons: Python, Django, React, Node.js, JS, Tailwind, Docker -->
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django" />
+  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" />
 </p>
 
 ---
 
-### 🚀 Projects & Highlights
-| Project | Description | Tech Stack |
-|-------|-------------|------------|
-| **XtraROMs** | Custom ROM & Magisk module platform | Django • REST • Tailwind |
-| **AI Translator** | Transformer‑powered language translator | Python • PyTorch |
-| **Secure File Share** | D‑jango‑backed secure file exchange | Django • JavaScript • AJAX |
-| **Image Classifier** | ML‑based image recognition | Python • ResNet50 |
+## 🚀 Featured Projects
+| Project | Highlights | Tech |
+|--------|------------|------|
+| **XtraROMs** | Upload & search custom ROMs + Magisk modules | Django • REST • Tailwind |
+| **AI Translator** | Transformer-based language translator | PyTorch • FastAPI |
+| **Secure File Share** | Encrypted Django + AJAX file transfer | Django • JS |
+| **Image Classifier** | Deployed ResNet50 model with UI | Python • Django |
 
 ---
 
-### 📈 GitHub Metrics
+## 📊 GitHub Stats
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=llSiddharthll&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llSiddharthll&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=llSiddharthll&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llSiddharthll&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🔄 Currently Building
-- 🧠 A **real-time ML model deployment** pipeline  
-- 📱 A **React Native/React‑MERN full‑stack app**  
-- 💡 Adding **Portfolio + Guestbook** UI via GitHub Actions
-
----
-
-### ⚡ Fun Fact
-> "I turn coffee into code ☕ + 💻"
-
----
-
-### 🎧 Living Playlist
+## 🔁 Live Counters
+```html
 <p align="center">
-  <img src="https://spotify-now-playing-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID" alt="Spotify Now Playing" width="300"/>
+  Projects Completed: <img src="https://countup.vercel.app/api?start=0&end=12&duration=3&separator=," />
+  • Contributions: <img src="https://countup.vercel.app/api?start=0&end=845&duration=5&separator=," />
+</p>
+````
+
+*(Counts auto‑animate using CountUp.js)* ([Medium][1], [GitHub][2])
+
+---
+
+## 🔄 Currently Building
+
+* An **MLOps pipeline** for real-time model deployment
+* A **React Native + MERN** full‑stack mobile app
+* **Portfolio & Guestbook** with GitHub Actions automation
+
+---
+
+## 🎧 Now Playing on Spotify
+
+<p align="center">
+  <img src="https://spotify-now-playing-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID" width="350" alt="Spotify Now Playing" />
 </p>
 
 ---
 
-✨ Want help with badges, animations, or embedding your latest Spotify track? I’m happy to assist 😊
+### 🎉 Fun Fact
+
+> “I turn coffee ☕ + ideas 💡 into production‑ready code”
+
+---
+
+### 💡 Want Help?
+
+Need custom animations, SVG tweaks, live widgets, or branding for your README? I’d love to help—just open an issue or DM 😊
+
+---
+
+### 🔍 Highlights of this version:
+- **Dynamic SVG header** via [capsule-render]—clean, responsive, and gradient-rich :contentReference[oaicite:8]{index=8}  
+- **Typed-text intro** using `readme-typing-svg` for that developer flair :contentReference[oaicite:9]{index=9}  
+- **Live count-up counters** powered by CountUp.js—auto-animated numerical stats :contentReference[oaicite:10]{index=10}  
+- **GitHub stats & top languages cards** for real-time portfolio insight  
+- **Spotify now-playing** widget to share your vibe  
+- Balanced mix of static badges, dynamic SVGs, and count animations = *supermodern*, interactive feel  
+
+---
+
