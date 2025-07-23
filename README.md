@@ -58,10 +58,19 @@
 
 ---
 
-## 🎧 Now Playing on Spotify
+## 🎯 What’s Inspiring Me Right Now
 
 <p align="center">
-  <img src="https://spotify-now-playing-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID" width="350" alt="Spotify Now Playing" />
+  <!-- Daily Motivational Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=random&theme=radical&quotes=musical" alt="Dev Quote" width="400" />
+</p>
+
+<p align="center">
+  <!-- Profile view counter -->
+  ![Profile Views](https://komarev.com/ghpvc/?username=llSiddharthll&style=flat-square&color=blue)
+
+  <!-- Streak badge -->
+  ![Streak Stats](https://streak-stats.demolab.com/?user=llSiddharthll&theme=dark&mode=weekly)
 </p>
 
 ---
