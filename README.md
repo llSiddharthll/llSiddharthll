@@ -50,12 +50,17 @@
 
 ---
 
-## 🔁 Live Counters
+## 🔢 Live Counters & Stats
 
-<p align="center">
-  Projects Completed: <img src="https://countup.vercel.app/api?start=0&end=12&duration=3&separator=," />
-  • Contributions: <img src="https://countup.vercel.app/api?start=0&end=845&duration=5&separator=," />
-</p>
+<!-- Profile views (server-rendered) -->
+![Profile Views](https://komarev.com/ghpvc/?username=llSiddharthll&style=flat-square&color=blue)
+
+<!-- Visitors hit count (invisible counter) -->
+![Hit Counter](https://profile-counter.glitch.me/llSiddharthll/count.svg)
+
+<!-- GitHub stats and top languages -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=llSiddharthll&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llSiddharthll&layout=compact&theme=radical)
 
 ---
 
