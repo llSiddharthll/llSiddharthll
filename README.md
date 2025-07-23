@@ -67,10 +67,10 @@
 
 <p align="center">
   <!-- Profile view counter -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=llSiddharthll&style=flat-square&color=blue)
+  ![Profile Views(https://komarev.com/ghpvc/?username=llSiddharthll&style=flat-square&color=blue)
 
   <!-- Streak badge -->
-  ![Streak Stats](https://streak-stats.demolab.com/?user=llSiddharthll&theme=dark&mode=weekly)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=llSiddharthll&theme=dark)](https://git.io/streak-stats)
 </p>
 
 ---
