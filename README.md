@@ -50,20 +50,6 @@
 
 ---
 
-## 🔢 Live Counters & Stats
-
-<!-- Profile views (server-rendered) -->
-![Profile Views](https://komarev.com/ghpvc/?username=llSiddharthll&style=flat-square&color=blue)
-
-<!-- Visitors hit count (invisible counter) -->
-![Hit Counter](https://profile-counter.glitch.me/llSiddharthll/count.svg)
-
-<!-- GitHub stats and top languages -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=llSiddharthll&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llSiddharthll&layout=compact&theme=radical)
-
----
-
 ## 🔄 Currently Building
 
 * An **MLOps pipeline** for real-time model deployment
