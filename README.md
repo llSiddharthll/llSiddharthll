@@ -51,14 +51,11 @@
 ---
 
 ## 🔁 Live Counters
-```html
+
 <p align="center">
   Projects Completed: <img src="https://countup.vercel.app/api?start=0&end=12&duration=3&separator=," />
   • Contributions: <img src="https://countup.vercel.app/api?start=0&end=845&duration=5&separator=," />
 </p>
-````
-
-*(Counts auto‑animate using CountUp.js)* ([Medium][1], [GitHub][2])
 
 ---
 
