@@ -1,79 +1,83 @@
-<!-- Animated Intro GIF -->
-![Welcome GIF](https://media.giphy.com/media/duzpaTbCUy9Vu/giphy.gif)
-
-<h1 align="center">Hi 👋, I'm Siddharth Tiwari</h1>
+<!-- Header Animation via Capsule (waving gradient) -->
 <p align="center">
-  <strong>Python & Django developer</strong> • Data Science aspirant • Web & ML enthusiast
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%2C%20I%27m%20Siddharth!👋" />
+</p>
+
+<h2 align="center">I'm **Siddharth Tiwari**</h2>
+<p align="center">
+  Full‑stack Developer • Python & Django • Learning ML & Web3 
+</p>
+
+<p align="center">
+  <a href="https://github.com/llSiddharthll">
+    <img src="https://img.shields.io/github/followers/llSiddharthll?label=Follow&style=social" alt="GitHub follow" />
+  </a>
+  <a href="https://linkedin.com/in/siddharth-tiwari-553735295">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-## 🔭 About Me
-- 🏫 Final-year B.Tech (IT) student from Lucknow, India :contentReference[oaicite:1]{index=1}  
-- 💻 Skilled in Python & Django with a passion for building innovative IT solutions :contentReference[oaicite:2]{index=2}  
-- 🤝 Team player with strong problem-solving mindset  
-- 📚 Continuously learning React Native, MERN Stack, ML, and API design  
-- 📫 Contact me: [Portfolio](https://portfolio-llsiddharthll.vercel.app) • [LinkedIn](https://linkedin.com/in/siddharth-tiwari-553735295)  
+### 👨‍💻 About Me
+- 🏫 IT undergrad from Lucknow, India  
+- 🌱 Passionate about **Python**, **Django**, **React.js**, **ML**  
+- 🔍 Constantly exploring **MLOps**, **Web3**, and **Cloud-native**  
+- 🎯 Obsessed with clean code, intuitive UI, and real-world impact  
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/siddharth-tiwari-553735295) | [Portfolio](https://your-portfolio.link)
 
 ---
 
-## 🧰 Technologies & Tools
+### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <!-- Icons: Python, Django, React, Node.js, JS, Tailwind, Docker -->
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects & Highlights
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **XtraROMs** | Platform for custom ROMs & Magisk modules – upload, search, auth | Django, REST API, Tailwind |
-| **AI Language Translator** | Neural-based translation tool | PyTorch, Transformers |
-| **File Sharing App** | Secure file exchange with Django backend | Django, JS, AJAX |
-| **Image Classifier** | ML-powered image classification UI | Django, ResNet50, Python |
+|-------|-------------|------------|
+| **XtraROMs** | Custom ROM & Magisk module platform | Django • REST • Tailwind |
+| **AI Translator** | Transformer‑powered language translator | Python • PyTorch |
+| **Secure File Share** | D‑jango‑backed secure file exchange | Django • JavaScript • AJAX |
+| **Image Classifier** | ML‑based image recognition | Python • ResNet50 |
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=llSiddharthll&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llSiddharthll&layout=compact&theme=radical)
-
----
-
-## 🎯 I’m currently
-- 🧠 Diving deeper into Machine Learning & MLOps  
-- 📱 Building full-stack apps using React Native & MERN  
-- 💡 Contributing to open-source projects  
-
----
-
-## 🤝 Let’s Connect!
+### 📈 GitHub Metrics
 <p align="center">
-  <a href="https://linkedin.com/in/siddharth-tiwari-553735295"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/llSiddharthll"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://portfolio-llsiddharthll.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=llSiddharthll&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llSiddharthll&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 🎉 Fun FACT
-> "I can talk endlessly about Machine Learning and Django!"
+### 🔄 Currently Building
+- 🧠 A **real-time ML model deployment** pipeline  
+- 📱 A **React Native/React‑MERN full‑stack app**  
+- 💡 Adding **Portfolio + Guestbook** UI via GitHub Actions
 
 ---
 
-## 🛠 Tools & Magic
+### ⚡ Fun Fact
+> "I turn coffee into code ☕ + 💻"
+
+---
+
+### 🎧 Living Playlist
 <p align="center">
-  <img src="https://github.com/denvercoder1/readme-typing-svg/blob/master/typing.svg" alt="Typing SVG" />
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="200" />
+  <img src="https://spotify-now-playing-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID" alt="Spotify Now Playing" width="300"/>
 </p>
 
 ---
 
-✨ Thanks for stopping by! Let’s build something extraordinary together 🚀
+✨ Want help with badges, animations, or embedding your latest Spotify track? I’m happy to assist 😊
