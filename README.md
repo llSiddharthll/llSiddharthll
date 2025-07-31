@@ -65,10 +65,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=random&theme=radical&quotes=musical" alt="Dev Quote" width="400" />
 </p>
 
-<p align="center">
-  <!-- Profile view counter -->
-  ![Profile Views(https://komarev.com/ghpvc/?username=llSiddharthll&style=flat-square&color=blue)
-
   <!-- Streak badge -->
 ## 🔥 GitHub Streak
 
