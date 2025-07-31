@@ -82,19 +82,10 @@
 
 ---
 
-### 💡 Want Help?
+### 💼 Open for Freelance
 
-Need custom animations, SVG tweaks, live widgets, or branding for your README? I’d love to help—just open an issue or DM 😊
-
----
-
-### 🔍 Highlights of this version:
-- **Dynamic SVG header** via [capsule-render]—clean, responsive, and gradient-rich :contentReference[oaicite:8]{index=8}  
-- **Typed-text intro** using `readme-typing-svg` for that developer flair :contentReference[oaicite:9]{index=9}  
-- **Live count-up counters** powered by CountUp.js—auto-animated numerical stats :contentReference[oaicite:10]{index=10}  
-- **GitHub stats & top languages cards** for real-time portfolio insight  
-- **Spotify now-playing** widget to share your vibe  
-- Balanced mix of static badges, dynamic SVGs, and count animations = *supermodern*, interactive feel  
+Looking for full-stack websites, APIs, automation, Shopify/WordPress & more?  
+Let’s work together — [open an issue](https://github.com/llSiddharthll) or drop me a message! 💬
 
 ---
 
