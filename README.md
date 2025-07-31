@@ -70,7 +70,7 @@
   ![Profile Views(https://komarev.com/ghpvc/?username=llSiddharthll&style=flat-square&color=blue)
 
   <!-- Streak badge -->
-  ![GitHub Streak](https://streak-stats.demolab.com?user=llSiddharthll&theme=dark)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=llSiddharthll&theme=dark)](https://git.io/streak-stats)
 </p>
 
 ---
