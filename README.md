@@ -69,7 +69,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=llSiddharthll&theme=default&hide_border=true" alt="GitHub Streak by Siddharth" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=llSiddharthll&theme=github_dark&hide_border=true" alt="GitHub Streak by Siddharth" />
 </p>
 
 </p>
