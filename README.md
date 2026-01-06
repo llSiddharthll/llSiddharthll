@@ -23,7 +23,7 @@
 <!-- Tech Stack -->
 <h2>🧠 Tech Stack</h2>
 
-<table width="100vw">
+<table width="100%">
 <tr>
 <td valign="top" width="35%">
 
