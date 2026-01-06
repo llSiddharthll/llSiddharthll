@@ -25,7 +25,7 @@
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="35%">
 
 ### ⚙ Backend
 - Python
@@ -37,7 +37,7 @@
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="35%">
 
 ### 🎨 Frontend
 - React
@@ -49,7 +49,7 @@
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="30%">
 
 ### 🗄 Databases & DevOps
 - PostgreSQL
