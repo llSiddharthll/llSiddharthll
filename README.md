@@ -100,7 +100,7 @@
 <h2>📊 Contribution Activity</h2>
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=IISiddharthII&theme=react-dark&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=llSiddharthll&theme=react-dark&hide_border=true"
 />
 
 <hr/>
