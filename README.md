@@ -90,10 +90,9 @@
 <!-- GitHub Stats -->
 <h2>📈 GitHub Stats</h2>
 
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=llSiddharthll&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=llSiddharthll&show_icons=true&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=llSiddharthll&theme=github_dark)
-</p>
+
 
 <hr/>
 
