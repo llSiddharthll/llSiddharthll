@@ -1,91 +1,130 @@
+<div align="center" style="padding:20px">
 
-<!-- Animated SVG header -->
+  <!-- Header -->
+  <h1 style="font-size:38px; margin-bottom:5px;">
+    👋 Hi, I'm <span style="color:#4f46e5;">Siddharth</span>
+  </h1>
+
+  <p style="font-size:18px; max-width:720px;">
+    I build <b>scalable backend systems</b>, <b>modern web apps</b>, and 
+    <b>performance-focused APIs</b> using Python & JavaScript ecosystems.
+  </p>
+
+  <!-- Typing animation -->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=750&lines=Backend+Engineering;API+Design+%26+Architecture;Django+%7C+Next.js+%7C+React;Clean+Code+%7C+Scalable+Systems"
+    alt="Typing SVG"
+  />
+
+</div>
+
+<hr/>
+
+<!-- Tech Stack -->
+<h2>🧠 Tech Stack</h2>
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### ⚙ Backend
+- Python
+- Django & Django REST Framework
+- Node.js
+- Authentication & Authorization
+- Payment Integrations
+- Background Jobs (Celery / Redis)
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🎨 Frontend
+- React
+- Next.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- Responsive UI
+- Performance Optimization
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🗄 Databases & DevOps
+- PostgreSQL
+- MongoDB
+- MySQL
+- Docker
+- Git & GitHub
+- CI/CD Basics
+
+</td>
+</tr>
+</table>
+
+<hr/>
+
+<!-- Tools badges -->
+<h2>🛠 Tools & Technologies</h2>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,react,nextjs,nodejs,postgres,mongodb,mysql,docker,git,github,tailwind,linux" />
+</p>
+
+<hr/>
+
+<!-- What I Build -->
+<h2>🚀 What I Build</h2>
+
+<ul>
+  <li>⚡ REST APIs & backend architectures</li>
+  <li>📊 Admin dashboards & internal tools</li>
+  <li>🔐 Secure authentication systems</li>
+  <li>🧩 Modular, maintainable codebases</li>
+  <li>🌐 SEO-optimized & high-performance web apps</li>
+</ul>
+
+<hr/>
+
+<!-- GitHub Stats -->
+<h2>📈 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Siddharth%20Tiwari%20👋&fontSize=60" alt="hello" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=IISiddharthII&show_icons=true&theme=transparent&hide_border=true"
+    height="160"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=IISiddharthII&theme=transparent&hide_border=true"
+    height="160"
+  />
 </p>
 
-<!-- Typing introduction -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=2D8CF0&background=FFFFFF00&center=true&lines=Full-stack+Engineer;Python+|+Django+|+React;ML+and+Web3+Enthusiast" alt="typing" />
-</p>
+<hr/>
 
----
+<!-- Activity Graph -->
+<h2>📊 Contribution Activity</h2>
 
-## 👨‍💻 About Me
-- 🎓 Final-year IT undergrad from Lucknow, India  
-- 💡 Passionate about clean code, intuitive UI, and real impact  
-- 🛠️ Currently building ML pipelines, React‑MERN apps & Cloud services  
-- 🔗 Connect with me: [LinkedIn](https://linkedin.com/in/siddharth-tiwari-553735295)
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=IISiddharthII&theme=react-dark&hide_border=true"
+/>
 
----
+<hr/>
 
-## ⚙️ Tools & Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django" />
-  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" />
-</p>
+<!-- Philosophy -->
+<h2>🧩 Engineering Philosophy</h2>
 
----
+<ul>
+  <li>✅ Clean, readable, and scalable code</li>
+  <li>⚙️ Backend first, performance always</li>
+  <li>📐 Architecture before implementation</li>
+  <li>🧪 Debugging & optimization mindset</li>
+</ul>
 
-## 🚀 Featured Projects
-| Project | Highlights | Tech |
-|--------|------------|------|
-| **XtraROMs** | Upload & search custom ROMs + Magisk modules | Django • REST • Tailwind |
-| **AI Translator** | Transformer-based language translator | PyTorch • FastAPI |
-| **Secure File Share** | Encrypted Django + AJAX file transfer | Django • JS |
-| **Image Classifier** | Deployed ResNet50 model with UI | Python • Django |
+<hr/>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=llSiddharthll&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llSiddharthll&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🔄 Currently Building
-
-* An **MLOps pipeline** for real-time model deployment
-* A **React Native + MERN** full‑stack mobile app
-* **Portfolio & Guestbook** with GitHub Actions automation
-
----
-
-## 🎯 What’s Inspiring Me Right Now
-
-<p align="center">
-  <!-- Daily Motivational Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=random&theme=radical&quotes=musical" alt="Dev Quote" width="400" />
-</p>
-
-  <!-- Streak badge -->
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=llSiddharthll&theme=github_dark&hide_border=true" alt="GitHub Streak by Siddharth" />
-</p>
-
-</p>
-
----
-
-### 🎉 Fun Fact
-
-> “I turn coffee ☕ + ideas 💡 into production‑ready code”
-
----
-
-### 💼 Open for Freelance
-
-Looking for full-stack websites, APIs, automation, Shopify/WordPress & more?  
-Let’s work together — [open an issue](https://github.com/llSiddharthll) or drop me a message! 💬
-
----
-
+<!-- Footer -->
+<div align="center" style="margin-top:30px">
+  <b>Open to building meaningful software 🚀</b>
+</div>
